@@ -1,2 +1,2 @@
 # UdacityHW5
-Faster histogram
+Faster histogram for Udacity Lesson 5
